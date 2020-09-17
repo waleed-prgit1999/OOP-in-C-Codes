@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598202537 source:c:\users\psf\desktop\c programs\oop\temperory\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
