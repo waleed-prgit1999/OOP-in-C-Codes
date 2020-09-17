@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596362062 source:c:\users\psf\desktop\c programs\oop\file handeling practice\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+

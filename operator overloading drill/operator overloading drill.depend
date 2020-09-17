@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593416040 source:c:\users\psf\desktop\c programs\oop\operator overloading drill\main.cpp
+	<iostream>
+	<string.h>
+
